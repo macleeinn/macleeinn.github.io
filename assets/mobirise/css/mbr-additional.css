@@ -1253,13 +1253,24 @@ a {
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
 }
 .cid-tfn7mGB3Rb .card-inner-padding {
-  padding: 10px 0 0 0;
+  padding: 50px 47px 0 46px;
+}
+.cid-tfn7mGB3Rb .card-inner {
+  padding: 0 0 0 46px;
 }
 .cid-tfn7mGB3Rb .center-name {
   justify-content: center;
 }
+.cid-tfn7mGB3Rb .mbr-text {
+  color: #000000;
+}
+@media (min-width: 768px) {
+  .cid-tfn7mGB3Rb .card-size {
+    width: 48.5% !important;
+  }
+}
 .cid-tflY01gXKC {
-  padding-top: 2rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: #000000;
 }
